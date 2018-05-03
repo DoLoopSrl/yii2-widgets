@@ -39,8 +39,7 @@
            "url": "https://github.com/DoLoopSrl/yii2-widget-select2",
            "type": "vcs"
        }
-    ]
-}
+    ],
     "autoload": {
         "psr-4": {
             "kartik\\widgets\\": ""
