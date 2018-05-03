@@ -26,7 +26,7 @@
         "kartik-v/yii2-widget-growl": "*",
         "kartik-v/yii2-widget-rangeinput": "*",
         "kartik-v/yii2-widget-rating": "*",
-        "kartik-v/yii2-widget-select2": "*",
+        "kartik-v/yii2-widget-select2": "dev-metronic5",
         "kartik-v/yii2-widget-sidenav": "*",
         "kartik-v/yii2-widget-spinner": "*",
         "kartik-v/yii2-widget-switchinput": "*",
@@ -34,6 +34,13 @@
         "kartik-v/yii2-widget-touchspin": "*",
         "kartik-v/yii2-widget-typeahead": "*"
     },
+     "repositories": [
+        {
+            "url": "https://github.com/DoLoopSrl/yii2-widget-select2",
+            "type": "vcs"
+        }
+    ]
+}
     "autoload": {
         "psr-4": {
             "kartik\\widgets\\": ""
