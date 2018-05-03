@@ -34,11 +34,11 @@
         "kartik-v/yii2-widget-touchspin": "*",
         "kartik-v/yii2-widget-typeahead": "*"
     },
-     "repositories": [
-        {
-            "url": "https://github.com/DoLoopSrl/yii2-widget-select2",
-            "type": "vcs"
-        }
+    "repositories": [
+       {
+           "url": "https://github.com/DoLoopSrl/yii2-widget-select2",
+           "type": "vcs"
+       }
     ]
 }
     "autoload": {
